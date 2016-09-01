@@ -1,2 +1,6 @@
 # hello-world
-A short description here.
+Hello!
+
+I'm going to learn GITHUB if it's the last thing I do!
+Thanks 
+Arty
